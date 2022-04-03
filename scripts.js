@@ -9,7 +9,7 @@ container.setAttribute("class", "container");
 app.appendChild(container);
 
 //url of the API
-var apiUrl = "http://www.boredapi.com/api/activity/";
+var apiUrl = "https://www.boredapi.com/api/activity/";
 
 //fetch fucntion
 fetch(apiUrl)
